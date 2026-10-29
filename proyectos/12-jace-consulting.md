@@ -2,7 +2,7 @@
 
 [← Portafolio](../README.md)
 
-Contenido institucional integrado al portafolio de Joao Calle Espinoza. La portada y la página de proyectos se consultaron en línea el 29 de octubre de 2026; los detalles se contrastaron con el contenido local del sitio. Las experiencias de equipo conservan su atribución institucional y no implican autoría individual exclusiva.
+Contenido del portafolio institucional de JACE Consulting. La portada y la página de proyectos se consultaron en línea el 29 de octubre de 2026; los detalles se contrastaron con el contenido local del sitio. Las experiencias de equipo conservan su atribución institucional y no implican autoría individual exclusiva.
 
 ## Proyectos publicados
 

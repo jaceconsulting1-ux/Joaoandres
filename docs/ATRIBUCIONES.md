@@ -2,7 +2,7 @@
 
 [← Portafolio](../README.md)
 
-El nombre de presentación es **Joao Calle Espinoza**, según su indicación. GeoHydro DataLab es el rótulo temático del portafolio, sin implicar una nueva institución o afiliación formal.
+Este es el portafolio institucional de **JACE Consulting**. La información del equipo, servicios y proyectos procede de [jaceconsultingec.com](https://jaceconsultingec.com/). Joao Calle figura como integrante del equipo, junto con los demás miembros y colaboradores.
 
 ## Trabajos académicos y colaborativos
 

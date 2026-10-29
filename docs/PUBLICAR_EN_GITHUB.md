@@ -1,11 +1,9 @@
-# Repositorio del portafolio
+# Portafolio institucional de JACE Consulting
 
-Destino elegido: https://github.com/jaceconsulting1-ux/Joaoandres
+Sitio oficial: https://jaceconsultingec.com/
 
-Nombre profesional: **Joao Calle Espinoza**.
+Repositorio actual: https://github.com/jaceconsulting1-ux/Joaoandres
 
-Este repositorio contiene la presentación bilingüe, doce fichas y la portada. Los datos privados, credenciales y documentos personales quedan fuera.
+La presentación, portada, equipo, servicios y proyectos corresponden a JACE Consulting. El nombre técnico actual del repositorio es histórico; su contenido tiene identidad institucional.
 
-El propietario del repositorio es `jaceconsulting1-ux`. Su nombre `Joaoandres` no coincide con el propietario, por lo que funciona como repositorio de portafolio; no activa automáticamente el README especial del perfil. Puede fijarse en el perfil o enlazarse desde la presentación de la cuenta.
-
-Las fichas identifican código disponible, productos, limitaciones y próximas etapas. El código completo y los datasets de los proyectos se publicarán por separado según su documentación y permisos.
+Para mantenerlo, actualizar los README en español e inglés a partir del sitio oficial, conservar coautorías y contexto académico y verificar las fichas antes de publicar nuevos resultados. Los documentos privados y credenciales quedan fuera.
