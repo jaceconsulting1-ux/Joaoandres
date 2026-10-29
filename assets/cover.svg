@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+<title id="title">Joao Calle Espinoza — GeoHydro DataLab</title><desc id="desc">Hidrología, geomática y ciencia de datos. Relieve y drenaje conceptuales.</desc>
+<rect width="1280" height="360" rx="20" fill="#102b3a"/>
+<path d="M780 260L900 60L1010 200L1100 90L1280 290V360H780Z" fill="#234c55"/>
+<path d="M900 60L867 115L901 102L927 112Z M1100 90L1064 133L1101 122L1136 135Z" fill="#afd8cf"/>
+<g fill="none" stroke="#355d63" stroke-width="2"><path d="M780 300Q920 210 1070 285T1300 275"/><path d="M780 320Q920 230 1070 305T1300 295"/><path d="M780 340Q920 250 1070 325T1300 315"/></g>
+<path d="M1010 200C930 234 1120 253 1030 287S1060 326 990 360" stroke="#57d0c2" stroke-width="9" fill="none"/>
+<text x="64" y="73" font-family="Arial,sans-serif" font-size="19" letter-spacing="4" fill="#68d6c8">GEOHYDRO DATALAB</text>
+<text x="60" y="157" font-family="Arial,sans-serif" font-size="55" font-weight="700" fill="#fff">Joao Calle Espinoza</text>
+<text x="64" y="213" font-family="Arial,sans-serif" font-size="25" fill="#d6e6ed">Hydrology · Geomatics · Data Science</text>
+<text x="64" y="279" font-family="Arial,sans-serif" font-size="19" fill="#9fc3cd">Agua, suelo y territorio a través de los datos.</text>
+<rect x="64" y="308" width="130" height="4" rx="2" fill="#57d0c2"/></svg>
